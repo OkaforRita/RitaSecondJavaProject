@@ -4,6 +4,6 @@ package com. infrest;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Welcome to Java programming");
+        System.out.println("Welcome to Java my programming");
     }
 }
