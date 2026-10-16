@@ -4,6 +4,12 @@ package com. infrest;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Welcome to Java my programming");
+
+        int firstFingers = 5;
+        int secondFingers = 3;
+        int sum = firstFingers + secondFingers;
+
+
+        System.out.println("the sum is: " + sum);
     }
 }
