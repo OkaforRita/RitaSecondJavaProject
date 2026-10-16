@@ -7,9 +7,10 @@ public class Main {
 
         int firstFingers = 5;
         int secondFingers = 3;
-        int sum = firstFingers + secondFingers;
+        int thirdFingers = 2;
+        int sum = firstFingers + secondFingers + thirdFingers;
+        int result =  sum * sum;
 
-
-        System.out.println("the sum is: " + sum);
+        System.out.println("the result of sum * sum: " + result);
     }
 }
